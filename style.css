@@ -1,0 +1,54 @@
+/* 
+
+
+font-family: 'Montserrat', sans-serif;
+font-family: 'Oswald', sans-serif;
+font-family: 'Roboto', sans-serif; 
+
+
+
+*/
+
+* {
+    margin: 0;
+    padding: 0;
+    border: none;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: 'Roboto', sans-serif;
+    font-weight: 500;
+    color: #3B3B3B;
+    font-size: 16px;
+}
+
+.ml-auto {
+    margin-left: auto;
+}
+
+.site-header {
+    background-color: #FFFBF0;
+    width: 100%;
+    min-height: 500px;
+    padding: 20px 0px 50px 0px;
+}
+
+.site-logo img {
+	width: 264px;
+}
+
+.site-menu li a {
+    font-family: 'Roboto', sans-serif; 
+    font-size: 16px;
+    color: #3B3B3B !important;
+}
+
+.navbar-light .navbar-toggler {
+	color: rgb(58, 60, 91);
+	border-color: transparent;
+}
+
+.navbar-toggler:focus {
+	box-shadow: none;
+}
