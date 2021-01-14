@@ -43,3 +43,11 @@
         padding: 4px 7px;
     }
 }
+
+
+
+@media (max-width:767px) {
+    .contact-item {
+        width: 100%;
+    }
+}
